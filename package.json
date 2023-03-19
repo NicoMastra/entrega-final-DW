@@ -1,0 +1,11 @@
+{
+  "name": "entrega-final-dw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "save": "sass --watch scss:css"
+  },
+  "author": "",
+  "license": "ISC"
+}
